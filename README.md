@@ -5,7 +5,7 @@ This is simple Finite automata implementation which comes with the problem state
 * Must end with <b>@diu.edu.bd</b>
 * Username shouldn't include <b>{.  , @)</b>
 * Username formate is like: <b>name00-0000 || name00-0 || name 00-00000000</b>
-* Username can't have more that one '-' and the position of '-' should be the 3rd position after the first numeric
+* Username can't have more that one '-' and the position of '-' should be the 3rd position from the first numeric after extracting alphabets
 
 
 ## Here are some accepting email:
